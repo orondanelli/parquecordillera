@@ -3,7 +3,9 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "Arica y Parinacota"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
