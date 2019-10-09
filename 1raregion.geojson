@@ -4,7 +4,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Arica y Parinacota"
+        "nombre": "Arica y Parinacota",
+        "region": "Primera"
       },
       "geometry": {
         "type": "Polygon",
